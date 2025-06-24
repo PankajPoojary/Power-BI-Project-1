@@ -18,7 +18,7 @@ Created my first Power BI project — a comprehensive **business insights dashbo
 
 ## 🖼️ Dashboard Preview:
 
-![Dashboard Screenshot](./dashboard_screenshot.jpg)
+
 
 ---
 
