@@ -15,10 +15,25 @@ Created my first Power BI project — a comprehensive **business insights dashbo
 - 💬 **Support Section** – User manual and support access
 
 ---
+## 🖼️ Dashboard Previews
 
-## 🖼️ Dashboard Preview:
+### 🏠 Home Page
+![Home Page](./Home%20Page%20(1).png)
 
+### 💰 Finance View
+![Finance View](./Finance%20view.png)
 
+### 📈 Sales View
+![Sales View](./Sales%20view.png)
+
+### 📣 Marketing View
+![Marketing View](./Marketing%20View.png)
+
+### ⚙️ Supply Chain View
+![Supply Chain View](./Supply%20chain%20view.png)
+
+### 🧠 Executive View
+![Executive View](./Executive%20View.png)
 
 ---
 
