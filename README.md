@@ -1,4 +1,4 @@
-# Power-BI-Project-1
+## Power-BI-Project-1
 Created my first Power BI Project- a comprehensive business insights dashboard. It covers..
 Finance View- PnL statements by customer, product, country and more.
 Sales View- Net Sales, Gross Margin, and profitability trends.
